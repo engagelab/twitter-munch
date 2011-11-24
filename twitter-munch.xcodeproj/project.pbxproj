@@ -22,14 +22,14 @@
 		AE4F8BF8147E7F2E0029E30A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		AE4F8BFA147E7F2E0029E30A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		AE4F8BFC147E7F2E0029E30A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		AE4F8C00147E7F2E0029E30A /* twitter-munch-Info.plist */ = {isa = PBXFileReference; path = "twitter-munch-Info.plist"; sourceTree = "<group>"; };
+		AE4F8C00147E7F2E0029E30A /* twitter-munch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "twitter-munch-Info.plist"; sourceTree = "<group>"; };
 		AE4F8C02147E7F2E0029E30A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		AE4F8C04147E7F2E0029E30A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		AE4F8C06147E7F2E0029E30A /* twitter-munch-Prefix.pch */ = {isa = PBXFileReference; path = "twitter-munch-Prefix.pch"; sourceTree = "<group>"; };
-		AE4F8C07147E7F2E0029E30A /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		AE4F8C06147E7F2E0029E30A /* twitter-munch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "twitter-munch-Prefix.pch"; sourceTree = "<group>"; };
+		AE4F8C07147E7F2E0029E30A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AE4F8C08147E7F2E0029E30A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AE4F8C0B147E7F2E0029E30A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		AE4F8C0D147E7F2E0029E30A /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		AE4F8C0D147E7F2E0029E30A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		AE4F8C0E147E7F2E0029E30A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
