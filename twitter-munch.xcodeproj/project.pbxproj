@@ -16,7 +16,8 @@
 		AE4F8C0C147E7F2E0029E30A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE4F8C0A147E7F2E0029E30A /* MainStoryboard.storyboard */; };
 		AE4F8C0F147E7F2E0029E30A /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AE4F8C0E147E7F2E0029E30A /* MainViewController.m */; };
 		AE4F8C16147E86310029E30A /* Twitter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE4F8C15147E86310029E30A /* Twitter.framework */; };
-		AEC4F034147F958C00F45B59 /* tweet-button.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AEC4F033147F958C00F45B59 /* tweet-button.jpg */; };
+		AEC6AE68147FCEF300905DEF /* m.png in Resources */ = {isa = PBXBuildFile; fileRef = AEC6AE67147FCEF300905DEF /* m.png */; };
+		AEC6AE6C147FD35300905DEF /* TweetButton-horizontal.png in Resources */ = {isa = PBXBuildFile; fileRef = AEC6AE6B147FD35300905DEF /* TweetButton-horizontal.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,10 +32,11 @@
 		AE4F8C07147E7F2E0029E30A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AE4F8C08147E7F2E0029E30A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AE4F8C0B147E7F2E0029E30A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		AE4F8C0D147E7F2E0029E30A /* MainViewController.h */ = {isa = PBXFileReference; path = MainViewController.h; sourceTree = "<group>"; };
+		AE4F8C0D147E7F2E0029E30A /* MainViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		AE4F8C0E147E7F2E0029E30A /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
 		AE4F8C15147E86310029E30A /* Twitter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Twitter.framework; path = System/Library/Frameworks/Twitter.framework; sourceTree = SDKROOT; };
-		AEC4F033147F958C00F45B59 /* tweet-button.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "tweet-button.jpg"; sourceTree = "<group>"; };
+		AEC6AE67147FCEF300905DEF /* m.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = m.png; path = ../m.png; sourceTree = "<group>"; };
+		AEC6AE6B147FD35300905DEF /* TweetButton-horizontal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TweetButton-horizontal.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +98,8 @@
 		AE4F8BFF147E7F2E0029E30A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				AEC4F033147F958C00F45B59 /* tweet-button.jpg */,
+				AEC6AE6B147FD35300905DEF /* TweetButton-horizontal.png */,
+				AEC6AE67147FCEF300905DEF /* m.png */,
 				AE4F8C00147E7F2E0029E30A /* twitter-munch-Info.plist */,
 				AE4F8C01147E7F2E0029E30A /* InfoPlist.strings */,
 				AE4F8C04147E7F2E0029E30A /* main.m */,
@@ -157,7 +160,8 @@
 			files = (
 				AE4F8C03147E7F2E0029E30A /* InfoPlist.strings in Resources */,
 				AE4F8C0C147E7F2E0029E30A /* MainStoryboard.storyboard in Resources */,
-				AEC4F034147F958C00F45B59 /* tweet-button.jpg in Resources */,
+				AEC6AE68147FCEF300905DEF /* m.png in Resources */,
+				AEC6AE6C147FD35300905DEF /* TweetButton-horizontal.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
